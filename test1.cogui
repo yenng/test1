@@ -21,58 +21,33 @@
 <part id="3"/>
 <part id="4"/>
 <part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/D203C-01/Desktop/test1/app/main.c" title="main.c" tooltip="C:/Users/D203C-01/Desktop/test1/app/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="425" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal.h" partName="stm32f4xx_hal.h" path="C:/Users/D203C-01/Desktop/test1/config/stm32f4xx_hal.h" title="stm32f4xx_hal.h" tooltip="C:/Users/D203C-01/Desktop/test1/config/stm32f4xx_hal.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/Hardware/stm32f4xx_hal.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="33" selectionOffset="2407" selectionTopPixel="525"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_def.h" partName="stm32f4xx_hal_def.h" path="C:/Users/D203C-01/CoIDE/workspace/STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h" title="stm32f4xx_hal_def.h" tooltip="C:/Users/D203C-01/CoIDE/workspace/STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/Hardware/stm32f4xx_hal_def.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="21" selectionOffset="2464" selectionTopPixel="2220"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="464" selectionTopPixel="74"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="GPIO.c" partName="GPIO.c" path="C:/Users/D203C-01/Desktop/test1/app/GPIO.c" title="GPIO.c" tooltip="C:/Users/D203C-01/Desktop/test1/app/GPIO.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/GPIO.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="816" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="839" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="GPIO.h" partName="GPIO.h" path="C:/Users/D203C-01/Desktop/test1/app/GPIO.h" title="GPIO.h" tooltip="C:/Users/D203C-01/Desktop/test1/app/GPIO.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/GPIO.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1355" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="792" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_gpio.h" partName="stm32f4xx_hal_gpio.h" title="stm32f4xx_hal_gpio.h" tooltip="C:\Users\D203C-01\CoIDE\workspace\STM32Cube_FW_F4_V1.5.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/D203C-01/CoIDE/workspace/STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11363" selectionTopPixel="1695"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.h" partName="Rcc.h" path="C:/Users/D203C-01/Desktop/test1/app/Rcc.h" title="Rcc.h" tooltip="C:/Users/D203C-01/Desktop/test1/app/Rcc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/Rcc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="233" selectionTopPixel="14"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.c" partName="Rcc.c" path="C:/Users/D203C-01/Desktop/test1/app/Rcc.c" title="Rcc.c" tooltip="C:/Users/D203C-01/Desktop/test1/app/Rcc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/Rcc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="183" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" partName="startup_stm32f429xx.s" path="C:/Users/D203C-01/Desktop/test1/app/startup_stm32f429xx.s" title="startup_stm32f429xx.s" tooltip="C:/Users/D203C-01/Desktop/test1/app/startup_stm32f429xx.s" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/config/startup_stm32f429xx.s"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="4020"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_rcc.h" partName="stm32f4xx_hal_rcc.h" path="C:/Users/D203C-01/Desktop/test1/app/stm32f4xx_hal_rcc.h" title="stm32f4xx_hal_rcc.h" tooltip="C:/Users/D203C-01/Desktop/test1/app/stm32f4xx_hal_rcc.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/Hardware/stm32f4xx_hal_rcc.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="6390"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.h" partName="Rcc.h" path="C:/Users/D203C-01/Desktop/test1/app/Rcc.h" title="Rcc.h" tooltip="C:/Users/D203C-01/Desktop/test1/app/Rcc.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/Rcc.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="409" selectionTopPixel="14"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f429xx.h" partName="stm32f429xx.h" path="C:/Users/D203C-01/Desktop/test1/app/stm32f429xx.h" title="stm32f429xx.h" tooltip="C:/Users/D203C-01/Desktop/test1/app/stm32f429xx.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/config/stm32f429xx.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="77456" selectionTopPixel="19065"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.c" partName="Rcc.c" path="C:/Users/D203C-01/Desktop/test1/app/Rcc.c" title="Rcc.c" tooltip="C:/Users/D203C-01/Desktop/test1/app/Rcc.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test1/App/Rcc.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="37" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -86,7 +61,7 @@
 <element path="/test1/Hardware"/>
 </expanded>
 <selection>
-<element path="/test1/App/Rcc.h"/>
+<element path="/test1/App/Rcc.c"/>
 </selection>
 </viewState>
 </view>
@@ -170,7 +145,7 @@
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.21933962" ratioLeft="279" ratioRight="993" relationship="2" relative="org.eclipse.ui.internal.ViewStack@c4ac16"/>
+<info part="org.eclipse.ui.editorss" ratio="0.1318408" ratioLeft="106" ratioRight="698" relationship="2" relative="org.eclipse.ui.internal.ViewStack@c4ac16"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@1fde928" ratio="0.71903324" ratioLeft="714" ratioRight="279" relationship="2" relative="org.eclipse.ui.editorss">
 <folder appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
@@ -223,8 +198,8 @@
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
 <hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
-<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
 <hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.debug.ui.DebugView"/>
 <view id="org.coocox.codebugger.trace.ui.traceview"/>
@@ -235,55 +210,39 @@
 <view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
 <fastViewBars/>
 <viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
-<layout>
-<mainWindow>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1062c97">
-<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
-<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@1062c97">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="954" ratioRight="318" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1062c97">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="954" ratioRight="318" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1062c97">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@6df156" ratio="0.69875425" ratioLeft="617" ratioRight="266" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1062c97">
-<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6df156" ratio="0.69875425" ratioLeft="617" ratioRight="266" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1062c97">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1c835de" ratio="0.5" ratioLeft="636" ratioRight="636" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6df156">
-<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
-<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1c835de" ratio="0.5" ratioLeft="636" ratioRight="636" relationship="2" relative="org.eclipse.ui.internal.ViewStack@6df156">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
 <page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
 <page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="Memory Browser"/>
 <page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
 <page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@60d73d" ratio="0.7777778" ratioLeft="987" ratioRight="282" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1062c97">
-<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.RegisterView" label="Registers"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@60d73d" ratio="0.7777778" ratioLeft="987" ratioRight="282" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1062c97">&#x0A;<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.RegisterView" label="Registers"/>
 <page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly"/>
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
@@ -296,163 +255,165 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/GPIO.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/main.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/GPIO.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/Rcc.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/Rcc.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/Hardware/stm32f4xx_hal_def.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/GPIO.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/GPIO.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" path="/test1/config/startup_stm32f429xx.s"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/Rcc.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/test1/App/Rcc.h"/>
 </editors>
-<item historyLabel="GPIO.c" index="1">
-<position/>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="1019" y="0"/>
 </item>
 <item historyLabel="GPIO.c" index="1">
-<position/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="876" y="0"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="975" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="1355" y="0"/>
+<position info="not_deleted" x="596" y="0"/>
 </item>
 <item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="116" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_hal_def.h" index="4">
-<position info="not_deleted" x="2464" y="21"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="104" y="0"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="922" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="307" y="0"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="922" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="307" y="0"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="104" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_hal_def.h" index="4">
-<position info="not_deleted" x="2464" y="21"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="816" y="0"/>
+<position info="not_deleted" x="233" y="0"/>
 </item>
 <item historyLabel="Rcc.c" index="2">
-<position info="not_deleted" x="37" y="0"/>
+<position info="not_deleted" x="248" y="0"/>
 </item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="32" y="0"/>
-</item>
-<item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="816" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="38" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="36" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="78" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="36" y="0"/>
-</item>
-<item historyLabel="main.c" index="5">
-<position info="not_deleted" x="425" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="36" y="0"/>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="1019" y="0"/>
 </item>
 <item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="816" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="36" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="78" y="0"/>
+<position info="not_deleted" x="596" y="0"/>
 </item>
 <item historyLabel="Rcc.c" index="2">
-<position info="not_deleted" x="37" y="0"/>
+<position info="not_deleted" x="248" y="0"/>
 </item>
 <item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="78" y="0"/>
+<position info="not_deleted" x="233" y="0"/>
 </item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="80" y="0"/>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="1019" y="0"/>
 </item>
 <item historyLabel="Rcc.c" index="2">
-<position info="not_deleted" x="37" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="80" y="0"/>
+<position info="not_deleted" x="248" y="0"/>
 </item>
 <item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="816" y="0"/>
+<position info="not_deleted" x="591" y="0"/>
 </item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="1355" y="0"/>
-</item>
-<item historyLabel="Rcc.c" index="2">
-<position info="not_deleted" x="37" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="80" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="1049" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="205" y="0"/>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="1019" y="0"/>
 </item>
 <item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="816" y="0"/>
+<position info="not_deleted" x="559" y="0"/>
 </item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="1355" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="205" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="0" y="19"/>
-</item>
-<item historyLabel="startup_stm32f429xx.s" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="GPIO.h" index="0">
-<position info="not_deleted" x="1355" y="0"/>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="273" y="0"/>
 </item>
 <item historyLabel="GPIO.c" index="1">
-<position info="not_deleted" x="816" y="0"/>
+<position info="not_deleted" x="591" y="0"/>
 </item>
-<item active="true" historyLabel="Rcc.h" index="3">
-<position info="not_deleted" x="0" y="19"/>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="474" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="269" y="5"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="474" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="269" y="5"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="605" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="275" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="906" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="275" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="906" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="892" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="765" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="892" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="765" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="1">
+<position info="not_deleted" x="892" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="275" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="5">
+<position info="not_deleted" x="898" y="0"/>
+</item>
+<item historyLabel="main.c" index="6">
+<position info="not_deleted" x="790" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="5">
+<position info="not_deleted" x="382" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="792" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="5">
+<position info="not_deleted" x="546" y="0"/>
+</item>
+<item historyLabel="main.c" index="6">
+<position info="not_deleted" x="464" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="5">
+<position info="not_deleted" x="546" y="0"/>
+</item>
+<item historyLabel="main.c" index="6">
+<position info="not_deleted" x="464" y="0"/>
+</item>
+<item historyLabel="Rcc.c" index="7">
+<position info="not_deleted" x="248" y="0"/>
+</item>
+<item historyLabel="Rcc.h" index="8">
+<position info="not_deleted" x="233" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="792" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="5">
+<position info="not_deleted" x="546" y="0"/>
+</item>
+<item historyLabel="main.c" index="6">
+<position info="not_deleted" x="464" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="792" y="0"/>
+</item>
+<item historyLabel="GPIO.c" index="5">
+<position info="not_deleted" x="839" y="0"/>
+</item>
+<item historyLabel="GPIO.h" index="4">
+<position info="not_deleted" x="792" y="0"/>
+</item>
+<item active="true" historyLabel="Rcc.c" index="7">
+<position info="not_deleted" x="215" y="1"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -461,50 +422,50 @@
 <actionBarAdvisor/>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.c" tooltip="test1/App/Rcc.c">
-<persistable path="/test1/App/Rcc.c"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="test1/config/startup_stm32f429xx.s">
+<persistable path="/test1/config/startup_stm32f429xx.s"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f429xx.h" tooltip="test1/config/stm32f429xx.h">
-<persistable path="/test1/config/stm32f429xx.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="SWD-for-ARM-Cortex-M4/STM32F4/startup_stm32f429xx.s">
+<persistable path="/SWD-for-ARM-Cortex-M4/STM32F4/startup_stm32f429xx.s"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.h" tooltip="test1/App/Rcc.h">
-<persistable path="/test1/App/Rcc.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="LowLevelIO.h" tooltip="SWD-for-ARM-Cortex-M4/Code/LowLevelIO.h">
+<persistable path="/SWD-for-ARM-Cortex-M4/Code/LowLevelIO.h"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RCC.c" tooltip="test1/App/RCC.c">
-<persistable path="/test1/App/RCC.c"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="configurePort.c" tooltip="SWD-for-ARM-Cortex-M4/Code/configurePort.c">
+<persistable path="/SWD-for-ARM-Cortex-M4/Code/configurePort.c"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_rcc.h" tooltip="test1/Hardware/stm32f4xx_hal_rcc.h">
-<persistable path="/test1/Hardware/stm32f4xx_hal_rcc.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="configurePort.h" tooltip="SWD-for-ARM-Cortex-M4/Code/configurePort.h">
+<persistable path="/SWD-for-ARM-Cortex-M4/Code/configurePort.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="Test/startup_stm32f429xx.s">
+<persistable path="/Test/startup_stm32f429xx.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_gpio.h" tooltip="Test/Hardware/stm32f4xx_hal_gpio.h">
+<persistable path="/Test/Hardware/stm32f4xx_hal_gpio.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_gpio.c" tooltip="Test/Hardware/stm32f4xx_hal_gpio.c">
+<persistable path="/Test/Hardware/stm32f4xx_hal_gpio.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="stm32f429zi_flash.ld" tooltip="C:\Users\D203C-01\CoIDE\workspace\Test\stm32f429zi_flash.ld">
+<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/Test/stm32f429zi_flash.ld"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="arm-gcc-link.ld" tooltip="C:\Users\D203C-01\CoIDE\workspace\Test\arm-gcc-link.ld">
+<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/Test/arm-gcc-link.ld"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="Test/main.c">
+<persistable path="/Test/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="SWD-for-ARM-Cortex-M4/Hardware/startup_stm32f429xx.s">
+<persistable path="/SWD-for-ARM-Cortex-M4/Hardware/startup_stm32f429xx.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Bit_Operations.c" tooltip="SWD-for-ARM-Cortex-M4/Code/Bit_Operations.c">
+<persistable path="/SWD-for-ARM-Cortex-M4/Code/Bit_Operations.c"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="test1/config/startup_stm32f429xx.s">
 <persistable path="/test1/config/startup_stm32f429xx.s"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_gpio.c" tooltip="test1/Hardware/stm32f4xx_hal_gpio.c">
-<persistable path="/test1/Hardware/stm32f4xx_hal_gpio.c"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_gpio.h" tooltip="C:\Users\D203C-01\CoIDE\workspace\STM32Cube_FW_F4_V1.5.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h">
-<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/STM32Cube_FW_F4_V1.5.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="GPIO.h" tooltip="test1/App/GPIO.h">
-<persistable path="/test1/App/GPIO.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="GPIO.c" tooltip="test1/App/GPIO.c">
-<persistable path="/test1/App/GPIO.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_def.h" tooltip="test1/Hardware/stm32f4xx_hal_def.h">
-<persistable path="/test1/Hardware/stm32f4xx_hal_def.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx.h" tooltip="test1/Hardware/stm32f4xx.h">
-<persistable path="/test1/Hardware/stm32f4xx.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal.h" tooltip="test1/Hardware/stm32f4xx_hal.h">
-<persistable path="/test1/Hardware/stm32f4xx_hal.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_gpio.h" tooltip="test1/Hardware/stm32f4xx_hal_gpio.h">
-<persistable path="/test1/Hardware/stm32f4xx_hal_gpio.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_hal_conf.h" tooltip="test1/Hardware/stm32f4xx_hal_conf.h">
-<persistable path="/test1/Hardware/stm32f4xx_hal_conf.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Bit_Operations.c" tooltip="SWD-for-ARM-Cortex-M4/Code/Bit_Operations.c">
+<persistable path="/SWD-for-ARM-Cortex-M4/Code/Bit_Operations.c"/>
 </file>
 </mruList>
 </workbench>

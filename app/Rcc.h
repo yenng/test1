@@ -4,10 +4,8 @@
 #include "GPIO.h"
 #include <stdint.h>
 
-#define RCC_reg (RCC_t*)0x40023800
+#define RCC_reg ((RCC_t*)0x40023800)
 
-//#define GPIO_OUTPUT			GPIO_MODE_OUTPUT_PP
-//#define GPIO_INPUT			GPIO_MODE_INPUT
 
 typedef struct RCC_type RCC_t;
 struct RCC_type{
@@ -36,3 +34,5 @@ struct RCC_type{
 	volatile uint32_t PLLI2SCFGR;
 };
 void gpioUnresetEnableClock(GPIO *port);
+
+#endif //__Rcc_H__

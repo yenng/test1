@@ -1,12 +1,21 @@
 #include "GPIO.h"
+#include "Rcc.h"
 #include "stm32f4xx_hal_rcc.h"
 
 void configurePin(int direction, int pinNum, GPIO *port){
 	GPIO_InitTypeDef GpioInfo;
 
-	__HAL_RCC_GPIOG_CLK_ENABLE();
-	__HAL_RCC_GPIOC_CLK_ENABLE();
-	__HAL_RCC_GPIOB_CLK_ENABLE();
+
+	int *ptr = (int*)0x40023810;
+	ptr[0] = 0x00000000;
+
+	int *ptr1 = (int*)0x40023830;
+	ptr1[0] = 0x0010007F;
+
+
+//	__HAL_RCC_GPIOG_CLK_ENABLE();
+//	__HAL_RCC_GPIOC_CLK_ENABLE();
+//	__HAL_RCC_GPIOB_CLK_ENABLE();
 
 //	volatile int *ptr = (int*)0x40021800;
 //	ptr[0] = 0x14000000;
@@ -27,6 +36,7 @@ void configurePin(int direction, int pinNum, GPIO *port){
 
 //	HAL_GPIO_Init(port,&gpio);
 }
+
 
 void writeOne(int pinNum, GPIO_InitTypeDef *port){
 	HAL_GPIO_WritePin(port, pinNum, GPIO_PIN_SET);

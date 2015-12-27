@@ -1,10 +1,12 @@
 #ifndef __Rcc_H__
 #define	__Rcc_H__
 
-#include "GPIO.h"
+// #include "GPIO.h"
 #include <stdint.h>
 
-#define RCC_reg ((RCC_t*)0x40023800)
+
+
+#define RCC_reg ((RCC_t*)RCC_BASE_ADDRESS)
 
 
 typedef struct RCC_type RCC_t;
@@ -33,6 +35,7 @@ struct RCC_type{
 	volatile uint32_t SSCGR;
 	volatile uint32_t PLLI2SCFGR;
 };
-void gpioUnresetEnableClock(GPIO *port);
+#include "Register.h"
+// void gpioUnresetEnableClock(GPIO *port);
 
 #endif //__Rcc_H__
